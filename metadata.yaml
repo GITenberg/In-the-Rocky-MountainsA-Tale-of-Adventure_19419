@@ -1,0 +1,32 @@
+_repo: In-the-Rocky-MountainsA-Tale-of-Adventure_19419
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19419-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W.H.G.
+    - Kingston, W. H. G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2006-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Rocky Mountains -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+title: 'In the Rocky Mountains: A Tale of Adventure'
+url: http://www.gutenberg.org/ebooks/19419
